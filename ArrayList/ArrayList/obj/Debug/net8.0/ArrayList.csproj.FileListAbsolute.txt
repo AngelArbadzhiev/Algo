@@ -1,0 +1,14 @@
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+A:\C#\AXEquation\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.exe
+A:\C#\AXEquation\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+A:\C#\AXEquation\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+A:\C#\AXEquation\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.dll
+A:\C#\AXEquation\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.dll
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+A:\C#\AXEquation\ArrayList\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
