@@ -1,0 +1,14 @@
+A:\C#\AXEquation\CircularQueue\CircularQueue\bin\Debug\net8.0\CircularQueue.exe
+A:\C#\AXEquation\CircularQueue\CircularQueue\bin\Debug\net8.0\CircularQueue.deps.json
+A:\C#\AXEquation\CircularQueue\CircularQueue\bin\Debug\net8.0\CircularQueue.runtimeconfig.json
+A:\C#\AXEquation\CircularQueue\CircularQueue\bin\Debug\net8.0\CircularQueue.dll
+A:\C#\AXEquation\CircularQueue\CircularQueue\bin\Debug\net8.0\CircularQueue.pdb
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfoInputs.cache
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfo.cs
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.csproj.CoreCompileInputs.cache
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.dll
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\refint\CircularQueue.dll
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.pdb
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\CircularQueue.genruntimeconfig.cache
+A:\C#\AXEquation\CircularQueue\CircularQueue\obj\Debug\net8.0\ref\CircularQueue.dll
