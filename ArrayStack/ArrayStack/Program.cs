@@ -6,7 +6,7 @@ namespace ArrayStack
     {
         static void Main(string[] args)
         {
-            ArrayStack<int> arrayStack = new ArrayStack<int>();
+            ArrayStack<int> arrayStack = new ArrayStack<int>(); //creating new int srray srack
             arrayStack.Push(1);
             arrayStack.Push(2);
             arrayStack.Push(3);
@@ -26,13 +26,13 @@ namespace ArrayStack
             arrayStack.Push(17);
             for (int i = 0; i < arrayStack.Count; i++)
             {
-                Console.Write(arrayStack.ToArray()[i] + " ");
+                Console.Write(arrayStack.ToArray()[i] + " "); //printing all elements
             }
-            arrayStack.Pop();
+            arrayStack.Pop();// popping the last element 
             Console.WriteLine();
             for (int i = 0; i < arrayStack.Count; i++)
             {
-                Console.Write(arrayStack.ToArray()[i] + " ");
+                Console.Write(arrayStack.ToArray()[i] + " "); //printing all element except the last one, beacuse it has been popped
             }
         }
     }
@@ -40,28 +40,28 @@ namespace ArrayStack
     {
         private T[] elements;
         private int index;
-        private const int InitialCapacity = 16;
+        private const int InitialCapacity = 16; 
         public int Count { get; private set;}
         public ArrayStack(int capacity = InitialCapacity)
         {
             elements = new T[InitialCapacity];
         }
-        public void Push(T element)
+        public void Push(T element) //pusing an element into the array stack
         {
-            if (this.Count == this.elements.Length)
+            if (this.Count == this.elements.Length) 
             {
                 Grow();
             }
             this.elements[this.Count++] = element;
 
         }
-        public T Pop()
+        public T Pop() //FILO priniciple 
         {
-            if (elements == null)
+            if (elements == null) //if nothing in array stk throw exception
             {
                 throw new InvalidOperationException();
             }
-            this.Count--;
+            this.Count--; //decrementing the array stack
             return this.elements[this.Count];
 
         }
@@ -69,7 +69,7 @@ namespace ArrayStack
         {
             return elements;
         }
-        private void Grow()
+        private void Grow() //creating a new array stack double the elements 
         {
             if (this.Count <= this.elements.Length)
             {
@@ -86,7 +86,7 @@ namespace ArrayStack
             for (int i = 0; i < this.Count; i++)
             {
                 resultarr[destinationIndex] = this.elements[sourceIndex];
-                sourceIndex++; // Increment sourceIndex to move to the next element
+                sourceIndex++; 
                 destinationIndex++;
             }
         }
