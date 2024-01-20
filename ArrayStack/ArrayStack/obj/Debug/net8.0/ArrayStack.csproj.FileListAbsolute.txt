@@ -1,0 +1,14 @@
+A:\C#\AXEquation\ArrayStack\ArrayStack\bin\Debug\net8.0\ArrayStack.exe
+A:\C#\AXEquation\ArrayStack\ArrayStack\bin\Debug\net8.0\ArrayStack.deps.json
+A:\C#\AXEquation\ArrayStack\ArrayStack\bin\Debug\net8.0\ArrayStack.runtimeconfig.json
+A:\C#\AXEquation\ArrayStack\ArrayStack\bin\Debug\net8.0\ArrayStack.dll
+A:\C#\AXEquation\ArrayStack\ArrayStack\bin\Debug\net8.0\ArrayStack.pdb
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.AssemblyInfoInputs.cache
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.AssemblyInfo.cs
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.csproj.CoreCompileInputs.cache
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.dll
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\refint\ArrayStack.dll
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.pdb
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ArrayStack.genruntimeconfig.cache
+A:\C#\AXEquation\ArrayStack\ArrayStack\obj\Debug\net8.0\ref\ArrayStack.dll
